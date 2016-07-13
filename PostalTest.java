@@ -14,7 +14,7 @@ import java.io.*;
  * @author Dr Timothy C. Lethbridge
  * @version July 2014
  */
-public class PostalTest
+public class PostalTest//qab GJHSBNas  hbnADMAN BNBVH
 {
   //Class methods *****************************************************
  
